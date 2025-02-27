@@ -99,9 +99,10 @@ nyc-taxi-analysis/
 ├── merged_data.csv          # Preprocessed data (taxi + weather)
 ├── requirements.txt         # Package dependencies
 ├── screenshots/             # Dashboard screenshots
-│   ├── overview.png
-│   ├── relationship.png
-│   └── timeseries.png
+│   ├── overview.jpeg
+│   ├── relationship.jpeg
+│   └── timeseries.jpeg
+│   └── dark mode.jpeg
 └── README.md                # Project documentation
 ```
 
@@ -163,5 +164,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgements
 
 - [Dash and Plotly](https://plotly.com/dash/) for the interactive visualization framework
-- [NYC Taxi & Limousine Commission](https://www1.nyc.gov/site/tlc/index.page) for making taxi data available
 - [Kaggle](https://www.kaggle.com/) for hosting the datasets
